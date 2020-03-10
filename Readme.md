@@ -1,6 +1,6 @@
-# This is a simple Article project with title and body using Laravel & API
+# This is a simple Article project with title and body using Laravel, API and Vuejs
 
-## we are going to us Laravel, APIs and Vuejs. 
+## We are going to create full CRUD app using Laravel, APIs and Vuejs. 
 
 
 ## Installation
