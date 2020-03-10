@@ -36,3 +36,21 @@ You can add some fake data using Seeder
 ```bash
 php artisan db:seed
 ```
+
+For Install Node.js you can download it from the link below
+
+```bash
+https://nodejs.org/
+```
+
+For Install NPM
+
+```bash
+npm install
+```
+
+For Run NPM
+
+```bash
+npm run watch
+```
